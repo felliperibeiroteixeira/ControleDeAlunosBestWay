@@ -1,4 +1,4 @@
-# ControleDeAlunosBestWay
+# Controle De Alunos BestWay
 Programa para cadastros e controle de alunos para Best Way Profissões e suas analises.
 
 Desenvolvi esse programa usando as linguagens Java, Python e SQL, a parte em Java são os formularios para cadastro de cursos e alunos, a parte em Python 
